@@ -4,7 +4,7 @@ The purpose of this project is to create a script that can transfer favorite tra
 
 I was tired of payfull services that transfered my favorites but without keeping the chronological order. I wanted to keep the same order as I had in Deezer. So I decided to create my own script to do the job.
 
-[** Thanks to tidalapi for the Tidal API wrapper **](https://github.com/tamland/python-tidal)
+[**Thanks to tidalapi for the Tidal API wrapper**](https://github.com/tamland/python-tidal)
 
 ## Features
 
@@ -14,7 +14,7 @@ I was tired of payfull services that transfered my favorites but without keeping
 * Remove all favorites from a Tidal account
 * Remove just favorite tracks from Tidal account
 * Remove just favorite artists from Tidal account
-* ** The script will ask you for tracks that are not available to search for alternatives **
+* **The script will ask you for tracks that are not available to search for alternatives**
 
 ## Prerequisites
 
@@ -61,9 +61,10 @@ options:
 
 The script will then ask you to enter your Deezer user ID and Tidal credentials.
 
-** Be aware that Tidal will pop up a browser window to ask for your credentials ! **
+**Be aware that Tidal will pop up a browser window to ask for your credentials !**
 
-** You may have some trakcs or artists that are not the same** , tidal sometimes just return things that have nothing to do with the search (usually means that the music is not available on Tidal).
+**You may have some trakcs or artists that are not the same** , tidal sometimes just return things that have nothing to do with the search (usually means that the music is not available on Tidal).
+
 ## Conclusion
 
 This script allows you to transfer your favorite tracks and artists from Deezer to Tidal while preserving the chronological order. Feel free to customize and enhance the script according to your needs.
